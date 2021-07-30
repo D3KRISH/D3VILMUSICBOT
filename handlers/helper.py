@@ -26,7 +26,7 @@ async def helper(ok, message: Message):
 /resume ▶️To continue The song
 
         💝❤️🧡💛💚💙💜🤎🖤❤️
-        🤍 @D3VIL_SUPPORT 🤍
+        🤍 @DOSTI_GROUP_1234 🤍
         💝❤️🧡💛💚💙💜🤎🖤❤️""")
 
 @Client.on_message(command("help") & other_filters)

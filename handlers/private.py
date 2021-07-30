@@ -19,17 +19,17 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url="https://github.com/D3KRISH/D3VILMUSICBOT")
+                        "🛠 father 🛠", url="https://t.me/abhinasroy")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/D3VIL_BOT_SUPPORT"
+                        "💬 Group", url="https://t.me/DOSTI_GROUP_1234"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/D3VIL_SUPPORT"
+                        "🔊 Channel", url="https://t.me/DOSTI_GROUP_1234"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "⚔️ ɕꝍꬼȶᶏɕȶ ȶꝍ ꝍⱳꬼꬴꭉ⚔️", url="https://t.me/D3_krish"
+                        "⚔️ ɕꝍꬼȶᶏɕȶ ȶꝍ ꝍⱳꬼꬴꭉ⚔️", url="https://t.me/abhinasroy"
                     )]
             ]
         ),
@@ -43,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/D3VIL_SUPPORT")
+                        "🔊 Channel", url="https://t.me/DOSTI_GROUP_1234")
                 ]
             ]
         )
